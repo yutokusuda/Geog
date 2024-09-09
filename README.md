@@ -3,7 +3,7 @@ GeoGuesserのシステムを模したアプリ
 
 
 
-
+Publicしたに画像フォルダを作り、ImageGrid内で配列して使用ください
 
 
 <<<<<<< HEAD
