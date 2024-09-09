@@ -1,3 +1,11 @@
+GeoGuesserのシステムを模したアプリ
+画像配列GridにPinを指し、正解との距離を測るコード
+
+
+
+
+
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
