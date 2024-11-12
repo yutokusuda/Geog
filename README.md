@@ -8,7 +8,7 @@ Public下に画像フォルダを作り、ImageGrid内で配列して使用く�
 package.jsonを作ってください
 
 
-
+環境
 {
   "name": "my-react-app",
   "version": "1.0.0",
